@@ -1,5 +1,5 @@
 # About Me:
-DevSecOps-oriented developer building production web apps with React, REST APIs, and intentional system design.<br><br>I focus on DevOps, web security, and scalable architecture — from frontend structure and backend services to database design and deployment. Cybersecurity shapes how I build: auth patterns, input validation, and defense-in-depth at every layer.
+DevSecOps-oriented developer building production web apps with React, REST APIs, and intentional system design.
 
 ## Portfolio:
 [![Portfolio](https://img.shields.io/badge/Live%20Site-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://wyco-dev.netlify.app/)
