@@ -2,7 +2,7 @@
 DevSecOps-oriented developer building production web apps with React, REST APIs, and intentional system design.
 
 ## Portfolio:
-[![Portfolio](https://img.shields.io/badge/Live%20Site-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://wyco-dev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://wyco-dev.com)
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wmaung.68) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wyyy._co) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wyco68) 
