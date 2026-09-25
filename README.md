@@ -4,10 +4,6 @@ Full-stack developer who ships to production.
 
 ISNE (Information Systems and Network Engineering) student at Chiang Mai University.
 
-Looking for a summer 2027 internship: April to June, or June to November.
-
-Chiang Mai, Thailand, open to remote or relocating.
-
 **Portfolio:** [www.wyco-dev.com](https://www.wyco-dev.com) · **Email:** [wyco68@gmail.com](mailto:wyco68@gmail.com) · **LinkedIn:** [in/wyco68](https://www.linkedin.com/in/wyco68)
 
 ## Projects
