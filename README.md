@@ -1,45 +1,42 @@
-# About Me:
-DevSecOps-oriented developer building production web apps with React, REST APIs, and intentional system design.
+# Win Moe Aung (Wyco)
 
-## Portfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://wyco-dev.com)
+Full-stack developer who ships to production.
 
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wmaung.68) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wyyy._co) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wyco68) 
+ISNE (Information Systems and Network Engineering) student at Chiang Mai University.
 
-# Tech Stack:
+Looking for a summer 2027 internship: April to June, or June to November.
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square\&logo=react\&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square\&logo=next.js\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square\&logo=bootstrap\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square\&logo=Flutter\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square\&logo=express\&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square\&logo=laravel\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square\&logo=fastapi)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square\&logo=redis\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square\&logo=firebase)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square\&logo=c%2B%2B\&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square\&logo=php\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square\&logo=kubernetes\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square\&logo=githubactions\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square\&logo=JSON%20web%20tokens)
+Chiang Mai, Thailand, open to remote or relocating.
 
-# Focus:
-- System architecture, REST APIs, and CI/CD
-- Web security, bug bounty, and penetration testing
-- AI-assisted development and agentic workflows
-- Networking fundamentals (VLANs, routing, BGP, IPv6)
+**Portfolio:** [www.wyco-dev.com](https://www.wyco-dev.com) · **Email:** [wyco68@gmail.com](mailto:wyco68@gmail.com) · **LinkedIn:** [in/wyco68](https://www.linkedin.com/in/wyco68)
 
-# GitHub Stats:
+## Projects
+
+Every project has a full case study on the portfolio: why I built it, the architecture, the pipeline, and the decisions behind it.
+
+| Project | What it is | Links |
+|---|---|---|
+| **Notecom** | Study-notes platform where Postgres Row Level Security decides who can read each folder. Used almost every day by me and four classmates. | [Case study](https://www.wyco-dev.com/projects/notecom) · [Live](https://notecom.wyco-dev.com) · [Source](https://github.com/Wyco68/Notecom) |
+| **CarPart** | Car-parts store with row-locked checkout so stock can't oversell, manually verified payments, and live order notifications. Self-hosted on my VPS. | [Case study](https://www.wyco-dev.com/projects/carpart) · [Live](https://carpart.wyco-dev.com) · [Source](https://github.com/Wyco68/e-commerce-web) |
+| **Next-movies** | Movie and TV browser running as a Cloudflare Worker, with rate limiting and IP bans in front of the TMDB API. | [Case study](https://www.wyco-dev.com/projects/next-movies) · [Live](https://nextmovies.wyco-dev.com) · [Source](https://github.com/Wyco68/MovieWeb) |
+| **GiraffeRun** | Java arcade game compiled to WebAssembly and deployed to GitHub Pages on every push. | [Case study](https://www.wyco-dev.com/projects/girafferun) · [Play](https://girafferun.wyco-dev.com) · [Source](https://github.com/Wyco68/GiraffeRun) |
+| **Budget Guardian** | Finance desktop app built on hand-written data structures, with 287 tests in CI and a build-failing architecture rule. | [Case study](https://www.wyco-dev.com/projects/budget-guardian) · [Source](https://github.com/Wyco68/BudgetGurdian) |
+| **Notecom Desktop** | Desktop build of Notecom that generates lessons with the user's own Claude Code CLI, with no API key stored. | [Case study](https://www.wyco-dev.com/projects/notecom-desktop) · [Source](https://github.com/Wyco68/Notecom) |
+
+## Skills
+
+- **Languages:** Java, TypeScript, JavaScript, PHP, SQL, Rust
+- **Web:** React, Next.js, Node.js, Laravel, REST APIs
+- **Databases:** PostgreSQL, MySQL, Redis
+- **Software engineering:** System design, data structures and algorithms, API design, automated testing
+- **DevOps and cloud:** CI/CD (GitHub Actions), Docker, Linux server management, VPS deployment, DNS and TLS, Cloudflare Workers, Vercel
+- **Security:** Authentication and authorization, Row Level Security, Content Security Policy, rate limiting, input validation, secrets management
+
+## Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyco68) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wmaung.68) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wyyy._co)
+
+## GitHub stats
+
 ![](https://github-readme-stats.shion.dev/api?username=Wyco68&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Wyco68&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
