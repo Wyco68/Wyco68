@@ -4,6 +4,8 @@ Full-stack developer who ships to production.
 
 ISNE (Information Systems and Network Engineering) student at Chiang Mai University.
 
+Teaching assistant for Web Programming and the Data Structures and Algorithms lab (C++). Team winner, CMU Inter x Botnoi Hackathon 2024.
+
 Looking for a summer 2027 internship: April to June, or June to November.
 
 Chiang Mai, Thailand, open to remote or relocating.
@@ -25,7 +27,7 @@ Every project has a full case study on the portfolio: why I built it, the archit
 
 ## Skills
 
-- **Languages:** Java, TypeScript, JavaScript, PHP, SQL, Rust
+- **Languages:** Java, TypeScript, JavaScript, PHP, C++, Python, SQL, Rust
 - **Web:** React, Next.js, Node.js, Laravel, REST APIs
 - **Databases:** PostgreSQL, MySQL, Redis
 - **Software engineering:** System design, data structures and algorithms, API design, automated testing
